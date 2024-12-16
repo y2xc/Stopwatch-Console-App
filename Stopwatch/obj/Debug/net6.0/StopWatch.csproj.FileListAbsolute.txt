@@ -1,0 +1,15 @@
+C:\Users\c4lik\OneDrive\Documents\AAU\Year IV\Event Driven Programming - Elective\Assignment\DotNet-main\StopWatch\bin\Debug\net6.0\StopWatch.exe
+C:\Users\c4lik\OneDrive\Documents\AAU\Year IV\Event Driven Programming - Elective\Assignment\DotNet-main\StopWatch\bin\Debug\net6.0\StopWatch.deps.json
+C:\Users\c4lik\OneDrive\Documents\AAU\Year IV\Event Driven Programming - Elective\Assignment\DotNet-main\StopWatch\bin\Debug\net6.0\StopWatch.runtimeconfig.json
+C:\Users\c4lik\OneDrive\Documents\AAU\Year IV\Event Driven Programming - Elective\Assignment\DotNet-main\StopWatch\bin\Debug\net6.0\StopWatch.dll
+C:\Users\c4lik\OneDrive\Documents\AAU\Year IV\Event Driven Programming - Elective\Assignment\DotNet-main\StopWatch\bin\Debug\net6.0\StopWatch.pdb
+C:\Users\c4lik\OneDrive\Documents\AAU\Year IV\Event Driven Programming - Elective\Assignment\DotNet-main\StopWatch\obj\Debug\net6.0\StopWatch.csproj.AssemblyReference.cache
+C:\Users\c4lik\OneDrive\Documents\AAU\Year IV\Event Driven Programming - Elective\Assignment\DotNet-main\StopWatch\obj\Debug\net6.0\StopWatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c4lik\OneDrive\Documents\AAU\Year IV\Event Driven Programming - Elective\Assignment\DotNet-main\StopWatch\obj\Debug\net6.0\StopWatch.AssemblyInfoInputs.cache
+C:\Users\c4lik\OneDrive\Documents\AAU\Year IV\Event Driven Programming - Elective\Assignment\DotNet-main\StopWatch\obj\Debug\net6.0\StopWatch.AssemblyInfo.cs
+C:\Users\c4lik\OneDrive\Documents\AAU\Year IV\Event Driven Programming - Elective\Assignment\DotNet-main\StopWatch\obj\Debug\net6.0\StopWatch.csproj.CoreCompileInputs.cache
+C:\Users\c4lik\OneDrive\Documents\AAU\Year IV\Event Driven Programming - Elective\Assignment\DotNet-main\StopWatch\obj\Debug\net6.0\StopWatch.dll
+C:\Users\c4lik\OneDrive\Documents\AAU\Year IV\Event Driven Programming - Elective\Assignment\DotNet-main\StopWatch\obj\Debug\net6.0\refint\StopWatch.dll
+C:\Users\c4lik\OneDrive\Documents\AAU\Year IV\Event Driven Programming - Elective\Assignment\DotNet-main\StopWatch\obj\Debug\net6.0\StopWatch.pdb
+C:\Users\c4lik\OneDrive\Documents\AAU\Year IV\Event Driven Programming - Elective\Assignment\DotNet-main\StopWatch\obj\Debug\net6.0\StopWatch.genruntimeconfig.cache
+C:\Users\c4lik\OneDrive\Documents\AAU\Year IV\Event Driven Programming - Elective\Assignment\DotNet-main\StopWatch\obj\Debug\net6.0\ref\StopWatch.dll
